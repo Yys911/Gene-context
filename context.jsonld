@@ -1,3 +1,51 @@
 {
-    "GO" : "https://amigo.geneontology.org/amigo/"
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "GO" : {
+        "@id": "http://purl.obolibrary.org/obo/NCIT_C43520",
+        "@type": "@id"
+    },
+    "Uniprot_ID": {
+        "@id": "http://edamontology.org/data_2291",
+        "@type": "xsd:string"
+    },
+    "NCBI_GeneID": {
+        "@id": "http://purl.obolibrary.org/obo/OGG_0000000006",
+        "@type": "xsd:string"
+    },
+    "ID": {
+        "@id":,
+        "@type": "xsd:string"
+    },
+    "NCBI_TaxID": {
+        "@id": "http://purl.obolibrary.org/obo/MS_1001467",
+        "@type": "xsd:string"
+    },
+    "Protein_Name": {
+        "@id": "http://purl.obolibrary.org/obo/NCIT_C165060",
+        "@type": "xsd:string"
+    },
+    "Gene_Name": {
+        "@id": "http://purl.obolibrary.org/obo/NCIT_C164806",
+        "@type": "xsd:string"
+    },
+    "Synonyms": {
+        "@id": "http://purl.obolibrary.org/obo/MI_0302",
+        "@type": "xsd:string"
+    },
+    "OrderedLocusNames": {
+        "@id": "http://purl.obolibrary.org/obo/MI_0305",
+        "@type": "xsd:string"
+    },
+    "ORFNames": {
+        "@id": "http://edamontology.org/data_1807",
+        "@type": "xsd:string"
+    },
+    "SITE": {
+        "@id":,
+        "@type": "xsd:string"
+    },
+    "SQ": {
+        "@id":,
+        "@type": "xsd:string"
+    }
 }
