@@ -12,8 +12,8 @@
         "@id": "http://purl.obolibrary.org/obo/OGG_0000000006",
         "@type": "xsd:string"
     },
-    "ID": {
-        "@id":,
+    "Protein_ID": {
+        "@id": "http://purl.obolibrary.org/obo/NCIT_C165059",
         "@type": "xsd:string"
     },
     "NCBI_TaxID": {
@@ -40,12 +40,13 @@
         "@id": "http://edamontology.org/data_1807",
         "@type": "xsd:string"
     },
-    "SITE": {
-        "@id":,
+    "Cleavage": {
+        "@id": "http://edamontology.org/operation_0366",
         "@type": "xsd:string"
     },
+
     "SQ": {
-        "@id":,
+        "@id": "http://purl.obolibrary.org/obo/GSSO_007262",
         "@type": "xsd:string"
     }
 }
