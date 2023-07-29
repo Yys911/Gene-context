@@ -3,7 +3,7 @@
         "xsd": "http://www.w3.org/2001/XMLSchema#",
         "GO" : {
             "@id": "http://purl.obolibrary.org/obo/NCIT_C43520",
-            "@type": "@id"
+            "@type": "xsd:string"
         },
         "Uniprot_ID": {
             "@id": "http://edamontology.org/data_2291",
