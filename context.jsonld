@@ -45,7 +45,10 @@
             "@id": "http://edamontology.org/operation_0366",
             "@type": "xsd:string"
         },
-
+        "evidence": {
+            "@id": "http://www.geneontology.org/formats/oboInOwl#evidence",
+            "@type": "xsd:string"
+        },
         "SQ": {
             "@id": "http://purl.obolibrary.org/obo/GSSO_007262",
             "@type": "xsd:string"
