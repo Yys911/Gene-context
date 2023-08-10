@@ -44,8 +44,8 @@
         "Cleavage": {
             "@id": "http://edamontology.org/operation_0366"
         },
-        "site": {
-            "@id": "http://edamontology.org/topic_0160",
+        "octapeptide": {
+            "@id": "http://purl.obolibrary.org/obo/GSSO_007262",
             "@type": "xsd:string"
         },
         "by": {
@@ -54,6 +54,10 @@
         },
         "evidence": {
             "@id": "http://www.geneontology.org/formats/oboInOwl#evidence",
+            "@type": "xsd:string"
+        },
+        "part_of": {
+            "@id": "http://www.bioassayontology.org/bao#BAO_0090002",
             "@type": "xsd:string"
         },
         "Peptide": {
