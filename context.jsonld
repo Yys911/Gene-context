@@ -56,29 +56,13 @@
             "@id": "http://www.geneontology.org/formats/oboInOwl#evidence",
             "@type": "xsd:string"
         },
-        "peptide": {
+        "Peptide": {
             "@id": "http://purl.obolibrary.org/obo/CHEBI_16670"
         },
         "index": {
             "@id": "http://purl.obolibrary.org/obo/GSSO_005147"
         },
-        "P4": {
-            "@id": "http://purl.obolibrary.org/obo/CHEBI_33712",
-            "@type": "xsd:string"
-        },
-        "P4'": {
-            "@id": "http://purl.obolibrary.org/obo/CHEBI_33711",
-            "@type": "xsd:string"
-        },
         "P1": {
-            "@id": "http://purl.obolibrary.org/obo/CHEBI_33708",
-            "@type": "xsd:string"
-        },
-        "P2": {
-            "@id": "http://purl.obolibrary.org/obo/CHEBI_33708",
-            "@type": "xsd:string"
-        },
-        "P3": {
             "@id": "http://purl.obolibrary.org/obo/CHEBI_33708",
             "@type": "xsd:string"
         },
@@ -86,12 +70,24 @@
             "@id": "http://purl.obolibrary.org/obo/CHEBI_33708",
             "@type": "xsd:string"
         },
-        "P2'": {
-            "@id": "http://purl.obolibrary.org/obo/CHEBI_33708",
+        "C-terminus": {
+            "@id": "http://purl.obolibrary.org/obo/CHEBI_33711",
             "@type": "xsd:string"
         },
-        "P3'": {
-            "@id": "http://purl.obolibrary.org/obo/CHEBI_33708",
+        "N-terminus": {
+            "@id": "http://purl.obolibrary.org/obo/CHEBI_33712",
+            "@type": "xsd:string"
+        },
+        "hasAAEndPos": {
+            "@id": "http://semanticscience.org/resource/SIO_000792",
+            "@type": "xsd:string"
+        },
+        "hasAAStartPos": {
+            "@id": "http://semanticscience.org/resource/SIO_000791",
+            "@type": "xsd:string"
+        },
+        "sequence": {
+            "@id": "http://purl.obolibrary.org/obo/GSSO_007262",
             "@type": "xsd:string"
         },
         "SQ": {
