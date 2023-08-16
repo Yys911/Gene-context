@@ -18,7 +18,7 @@
             "@type": "xsd:string"
         },
         "NCBI_TaxID": {
-            "@id": "http://purl.obolibrary.org/obo/MS_1001467",
+            "@id": "http://purl.obolibrary.org/obo/NCIT_P331",
             "@type": "xsd:string"
         },
         "Protein_Name": {
@@ -46,16 +46,13 @@
             "@type": "xsd:string"
         },
         "by": {
-            "@id": "http://purl.obolibrary.org/obo/NCIT_C16554",
-            "@type": "xsd:string" 
+            "@id": "http://purl.obolibrary.org/obo/SCDO_1000202"
         },
-        "evidence": {
-            "@id": "http://www.geneontology.org/formats/oboInOwl#evidence",
-            "@type": "xsd:string"
+        "has_evidence": {
+            "@id": "http://semanticscience.org/resource/SIO_000772"
         },
         "part_of": {
-            "@id": "http://www.bioassayontology.org/bao#BAO_0090002",
-            "@type": "xsd:string"
+            "@id": "http://www.bioassayontology.org/bao#BAO_0090002"
         },
         "Peptide": {
             "@id": "http://purl.obolibrary.org/obo/CHEBI_16670"
@@ -63,32 +60,30 @@
         "index": {
             "@id": "http://purl.obolibrary.org/obo/GSSO_005147"
         },
-        "P1": {
-            "@id": "http://purl.obolibrary.org/obo/CHEBI_33708",
+        "hasP1": {
+            "@id": "http://semdeep.org/formats/InOwl/DeS#hasP1",
             "@type": "xsd:string"
         },
-        "P1'": {
-            "@id": "http://purl.obolibrary.org/obo/CHEBI_33708",
+        "hasP1'": {
+            "@id": "http://semdeep.org/formats/InOwl/DeS#hasP1",
             "@type": "xsd:string"
         },
-        "C-terminus": {
-            "@id": "http://purl.obolibrary.org/obo/CHEBI_33711",
+        "C-terminal": {
+            "@id": "http://semdeep.org/formats/InOwl/DeS#hasCterminal",
             "@type": "xsd:string"
         },
-        "N-terminus": {
-            "@id": "http://purl.obolibrary.org/obo/CHEBI_33712",
+        "N-terminal": {
+            "@id": "http://semdeep.org/formats/InOwl/DeS#hasNterminal",
             "@type": "xsd:string"
         },
         "hasAAEndPos": {
-            "@id": "http://semanticscience.org/resource/SIO_000792",
-            "@type": "xsd:string"
+            "@id": "http://biohackathon.org/resource/faldo#end"
         },
         "hasAAStartPos": {
-            "@id": "http://semanticscience.org/resource/SIO_000791",
-            "@type": "xsd:string"
+            "@id": "http://biohackathon.org/resource/faldo#begin"
         },
         "sequence": {
-            "@id": "http://purl.obolibrary.org/obo/GSSO_007262",
+            "@id": "http://www.bioassayontology.org/bao#BAO_0002818",
             "@type": "xsd:string"
         },
         "SQ": {
