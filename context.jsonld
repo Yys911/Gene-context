@@ -2,9 +2,8 @@
     "@context": {
         "xsd": "http://www.w3.org/2001/XMLSchema#",
         "label": "http://www.w3.org/2000/01/rdf-schema#label",
-        "GO" : {
-            "@id": "http://purl.obolibrary.org/obo/NCIT_C43520",
-            "@type": "xsd:string"
+        "seeAlso": {
+            "@id": "http://www.w3.org/2000/01/rdf-schema#seeAlso"
         },
         "Uniprot_AC": {
             "@id": "https://www.wikidata.org/wiki/Property:P352"
