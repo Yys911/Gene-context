@@ -88,10 +88,6 @@
         "sequence": {
             "@id": "http://www.bioassayontology.org/bao#BAO_0002818",
             "@type": "xsd:string"
-        },
-        "SQ": {
-            "@id": "http://purl.obolibrary.org/obo/GSSO_007262",
-            "@type": "xsd:string"
         }
     }
 }
