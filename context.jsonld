@@ -56,9 +56,6 @@
         "Peptide": {
             "@id": "http://purl.obolibrary.org/obo/CHEBI_16670"
         },
-        "index": {
-            "@id": "http://purl.obolibrary.org/obo/GSSO_005147"
-        },
         "hasP1": {
             "@id": "http://semdeep.org/formats/InOwl/DeS#hasP1",
             "@type": "xsd:string"
