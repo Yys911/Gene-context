@@ -65,7 +65,7 @@
             "@type": "xsd:string"
         },
         "hasP1'": {
-            "@id": "http://semdeep.org/formats/InOwl/DeS#hasP1",
+            "@id": "http://semdeep.org/formats/InOwl/DeS#hasP1prime",
             "@type": "xsd:string"
         },
         "contains": {
