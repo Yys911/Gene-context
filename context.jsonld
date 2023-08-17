@@ -6,7 +6,7 @@
             "@id": "http://purl.obolibrary.org/obo/NCIT_C43520",
             "@type": "xsd:string"
         },
-        "Uniprot_ID": {
+        "Uniprot_AC": {
             "@id": "https://www.wikidata.org/wiki/Property:P352"
         },
         "NCBI_GeneID": {
