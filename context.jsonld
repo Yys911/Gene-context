@@ -20,10 +20,6 @@
             "@id": "http://purl.obolibrary.org/obo/NCIT_P331",
             "@type": "xsd:string"
         },
-        "Protein_Name": {
-            "@id": "http://purl.obolibrary.org/obo/NCIT_C165060",
-            "@type": "xsd:string"
-        },
         "Encoded_By": {
             "@id": "http://purl.uniprot.org/core/encodedBy"
         },
@@ -39,10 +35,6 @@
         },
         "Cleavage": {
             "@id": "http://edamontology.org/operation_0366"
-        },
-        "octapeptide": {
-            "@id": "http://purl.obolibrary.org/obo/GSSO_007262",
-            "@type": "xsd:string"
         },
         "by": {
             "@id": "http://purl.obolibrary.org/obo/SCDO_1000202"
