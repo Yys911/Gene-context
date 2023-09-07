@@ -29,7 +29,7 @@
             "@type": "xsd:string"
         },
         "Gene_Synonyms": {
-            "@id": "http://purl.uniprot.org/core/synonym",
+            "@id": "http://www.geneontology.org/formats/oboInOwl#hasSynonym",
             "@type": "xsd:string"
         },
         "OrderedLocusNames": {
@@ -82,7 +82,7 @@
             "@id": "http://www.bioassayontology.org/bao#BAO_0002818",
             "@type": "xsd:string"
         },
-        "Feature": {
-            "@id": "http://rdfs.org/ns/void#feature"
+        "Cleavage_site": {
+            "@id": "http://semanticscience.org/resource/SIO_000001"
     }
 }
