@@ -82,7 +82,7 @@
             "@id": "http://www.bioassayontology.org/bao#BAO_0002818",
             "@type": "xsd:string"
         },
-        "Cleavage_site": {
+        "Cleavage_sites": {
             "@id": "http://semanticscience.org/resource/SIO_000001"
     }
 }
