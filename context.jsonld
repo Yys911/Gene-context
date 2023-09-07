@@ -21,7 +21,12 @@
             "@type": "xsd:string"
         },
         "Encoded_By": {
-            "@id": "http://purl.uniprot.org/core/encodedBy"
+            "@id": "http://purl.uniprot.org/core/encodedBy",
+            "@type": "http://purl.uniprot.org/core/Gene"
+        },
+        "name": {
+            "@id": "https://schema.org/name",
+            "@type": "xsd:string"
         },
         "Gene_Synonyms": {
             "@id": "http://purl.uniprot.org/core/synonym",
@@ -68,10 +73,10 @@
             "@type": "xsd:string"
         },
         "hasAAEndPos": {
-            "@id": "http://biohackathon.org/resource/faldo#end"
+            "@id": "http://semdeep.org/formats/InOwl/DeS#hasAAEndpos"
         },
         "hasAAStartPos": {
-            "@id": "http://biohackathon.org/resource/faldo#begin"
+            "@id": "http://semdeep.org/formats/InOwl/DeS#hasAAStartpos"
         },
         "sequence": {
             "@id": "http://www.bioassayontology.org/bao#BAO_0002818",
