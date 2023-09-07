@@ -2,8 +2,8 @@
     "@context": {
         "xsd": "http://www.w3.org/2001/XMLSchema#",
         "label": "http://www.w3.org/2000/01/rdf-schema#label",
-        "seeAlso": {
-            "@id": "http://www.w3.org/2000/01/rdf-schema#seeAlso"
+        "GO": {
+            "@id": "http://purl.allotrope.org/ontologies/property#AFX_0002802"
         },
         "Uniprot_AC": {
             "@id": "https://www.wikidata.org/wiki/Property:P352"
@@ -57,7 +57,7 @@
             "@type": "xsd:string"
         },
         "contains": {
-            "@id": "http://purl.obolibrary.org/obo/so#contains"
+            "@id": "http://semanticscience.org/resource/SIO_000202"
         },
         "C-terminal": {
             "@id": "http://semdeep.org/formats/InOwl/DeS#hasCterminal",
